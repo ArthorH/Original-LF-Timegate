@@ -1,0 +1,52 @@
+
+**** 10/01/21 15:02:09 ******* PSpice 17.4.0 (Nov 2018) ******* ID# 0 ********
+
+ ** Profile: "SCHEMATIC1-test"  [ C:\Modeling\LM2901_ti\LM2901-PSpiceFiles\SCHEMATIC1\test.sim ] 
+
+
+ ****     CIRCUIT DESCRIPTION
+
+
+******************************************************************************
+
+
+
+
+** Creating circuit file "test.cir" 
+** WARNING: THIS AUTOMATICALLY GENERATED FILE MAY BE OVERWRITTEN BY SUBSEQUENT SIMULATIONS
+
+*Libraries: 
+* Profile Libraries :
+* Local Libraries :
+.LIB "../../../lm2901.lib" 
+* From [PSPICE NETLIST] section of C:\SPB_DATA\cdssetup\OrCAD_PSpice\17.4.0\PSpice.ini file:
+.lib "nom.lib" 
+
+*Analysis directives: 
+.TRAN  0 30u 0 
+.OPTIONS ADVCONV
+.PROBE64 V(alias(*)) I(alias(*)) W(alias(*)) D(alias(*)) NOISE(alias(*)) 
+.INC "..\SCHEMATIC1.net" 
+
+
+
+**** INCLUDING SCHEMATIC1.net ****
+* source LM2901
+.EXTERNAL INPUT GND
+.EXTERNAL INPUT IN+
+.EXTERNAL INPUT IN-
+.EXTERNAL INPUT OUT
+.EXTERNAL INPUT Vcc
+X_U1         IN+ IN- VCC GND OUT LM2901
+V_VINN3         VCC 0 36
+R_R5         0 GND  1m TC=0,0 
+V_V2         IN+ 0  
++SIN 5 100m 100k 0 0 0
+V_VINN4         IN- 0 5
+R_R4         VCC OUT  10k TC=0,0 
+
+**** RESUMING test.cir ****
+.END
+
+ERROR(ORPSIM-15108): Subcircuit LM2901 used by X_U1 is undefined
+
