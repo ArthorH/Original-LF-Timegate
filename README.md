@@ -4,7 +4,7 @@ LF-Timegate is a time measurement device developed to assist with Line Follower 
 
 ![rect22-7](https://github.com/user-attachments/assets/2b5adb61-78eb-4406-bd00-0229d2a5dba9)
 
-### Meashurement modes:
+### Measurement modes:
 <img align="center" height="160" src="https://github.com/user-attachments/assets/14b047e1-3b21-480e-b701-b1e88d9d197a">
 <img align="center" height="160" src="https://github.com/user-attachments/assets/b293a596-0de7-4218-8f7d-6d8abdd7de3b">
 
