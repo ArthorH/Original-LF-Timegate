@@ -26,16 +26,16 @@ Also check out new drop in replacement [sensors](https://github.com/ArthorH/Simp
 ## Device in action:
 [In this video](https://www.youtube.com/watch?v=xdkL_AgzkSc)
 
-<img align="center" height="280" src="https://github.com/user-attachments/assets/8788d20a-acbb-4e5f-97fc-0c9bf5c77299">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 
-<img align="center" height="280" src="https://github.com/user-attachments/assets/cb4966d3-725b-4cf5-bda3-bf1a30326bdd">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 
+<img align="center" height="240" src="https://github.com/user-attachments/assets/8788d20a-acbb-4e5f-97fc-0c9bf5c77299">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 
+<img align="center" height="240" src="https://github.com/user-attachments/assets/cb4966d3-725b-4cf5-bda3-bf1a30326bdd">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 
 <img align="center" height="600" src="https://github.com/user-attachments/assets/bfb66d14-5c6c-4270-8d43-93c3d3f25b9d">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 
 ## Caution:
 It is not recommended to manufacture this version (REV A) as it has 10 errors on the PCB. They are fairly simple and fixable as shown here:
 
 #### Error in state machine 
-<img align="center" height="180" src="https://github.com/user-attachments/assets/a0aee744-cc08-4c6b-b303-2f296a8f9929">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 
-<img align="center" height="180" src="https://github.com/user-attachments/assets/43e30967-946e-4c76-8b30-b151a21fcf93">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 
-<img align="center" height="180" src="https://github.com/user-attachments/assets/87d12fee-ff72-4789-b063-e5ceea5e3cda">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 
+<img align="center" height="160" src="https://github.com/user-attachments/assets/a0aee744-cc08-4c6b-b303-2f296a8f9929">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 
+<img align="center" height="160" src="https://github.com/user-attachments/assets/43e30967-946e-4c76-8b30-b151a21fcf93">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 
+<img align="center" height="160" src="https://github.com/user-attachments/assets/87d12fee-ff72-4789-b063-e5ceea5e3cda">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 
 
 
 
