@@ -26,8 +26,8 @@ Also check out new drop in replacement [sensors](https://github.com/ArthorH/Simp
 ## Device in action:
 [In this video](https://www.youtube.com/watch?v=xdkL_AgzkSc)
 
-<img align="center" height="240" src="https://github.com/user-attachments/assets/8788d20a-acbb-4e5f-97fc-0c9bf5c77299">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 
-<img align="center" height="240" src="https://github.com/user-attachments/assets/cb4966d3-725b-4cf5-bda3-bf1a30326bdd">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 
+<img align="center" height="220" src="https://github.com/user-attachments/assets/8788d20a-acbb-4e5f-97fc-0c9bf5c77299">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 
+<img align="center" height="220" src="https://github.com/user-attachments/assets/cb4966d3-725b-4cf5-bda3-bf1a30326bdd">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 
 <img align="center" height="600" src="https://github.com/user-attachments/assets/bfb66d14-5c6c-4270-8d43-93c3d3f25b9d">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 
 ## Caution:
 It is not recommended to manufacture this version (REV A) as it has 10 errors on the PCB. They are fairly simple and fixable as shown here:
